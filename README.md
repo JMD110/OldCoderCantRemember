@@ -33,6 +33,7 @@
 ##### 算法效率的判断
 - 函数中的常数和其他次要项常常可以忽略,而更应该关注主项(最高阶项)的阶数
 ##### 大O记法 O()
+- O(1)< O(logn) < O(n) < O(nlogn) < O(n²) < O(n³) < O(2ⁿ) < O(n!) < O(nⁿ)
 <table>
   <tr><td>O(1)</td><td>常数阶</td></tr>
   <tr><td>O(n)</td><td>线性阶</td></tr>
@@ -42,4 +43,4 @@
   <tr><td>O(nlogn)</td><td>nlogn阶</td></tr>
   <tr><td>O(n³)</td><td>立方阶</td></tr>
 </table>
-- O(1)< O(logn) < O(n) < O(nlogn) < O(n²) < O(n³) < O(2ⁿ) < O(n!) < O(nⁿ)
+
