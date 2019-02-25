@@ -43,6 +43,8 @@
   <tr><td>O(nlogn)</td><td>nlogn阶</td></tr>
   <tr><td>O(n³)</td><td>立方阶</td></tr>
 </table>
+
+
 #### Day3
 ##### 线性表
 - 线性表是零个或多个数据元素的优先序列
