@@ -4,3 +4,5 @@ https://www.cnblogs.com/shockerli/p/1000-plus-line-mysql-notes.html
 https://blog.csdn.net/zezezuiaiya/article/details/83031305
 ### 史上更全的MySQL高性能优化实战总结
 https://yq.aliyun.com/articles/645477
+### MySQL的binlog日志
+https://www.cnblogs.com/martinzhang/p/3454358.html
