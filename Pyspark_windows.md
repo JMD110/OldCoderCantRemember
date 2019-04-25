@@ -9,7 +9,9 @@ requirement: py4j pypandoc pyspark
 网址：https://archive.apache.org/dist/hadoop/common/
 
 #### windows => winutils.exe
+https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe
 下载 保存到 %HADOOP_HOME%/bin下 HADOOP_HOME 环境变量为hadoop解压保存目录 自行配置
+单独下载github 推荐工具 octotree(google插件)
 
 #### cmd
 pyspark
