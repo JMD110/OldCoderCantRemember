@@ -6,3 +6,5 @@ https://blog.csdn.net/zezezuiaiya/article/details/83031305
 https://yq.aliyun.com/articles/645477
 ### MySQL的binlog日志
 https://www.cnblogs.com/martinzhang/p/3454358.html
+### Mysql查询优化——中间表方法优化count()统计大数据量总数问题
+https://blog.csdn.net/zhangdaiscott/article/details/60584036
