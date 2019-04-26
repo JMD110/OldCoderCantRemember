@@ -15,3 +15,6 @@ https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.
 
 #### cmd
 pyspark
+
+#### 学习路线
+https://blog.csdn.net/SCGH_Fx/article/details/74316064
