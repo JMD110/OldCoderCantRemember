@@ -26,7 +26,7 @@
 )
 
 
-db.workflow_node.aggregate([
+.aggregate([
   // Group on unique value storing _id values to array and count 
   { "$group": {
     "_id": { : "$"},
