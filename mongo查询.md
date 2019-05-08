@@ -10,6 +10,7 @@
 
 ### 正则查询
 .find({post_text:{$regex:"runoob",$options:"$i"}})
+.find({key:{$regex: /^(?!([(exp)|(exp1)])).*$/}})
 
 ### 值大小
 .find({likes : {$gt : 100}})
