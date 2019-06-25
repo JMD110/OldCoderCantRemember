@@ -80,3 +80,34 @@ func main() {
 
 }
 ```
+## while? break?for?
+```
+package main
+import "fmt"
+func main() {
+  i := 0
+  for {
+    fmt.Println(i)
+    i ++
+    if i > 100 {
+      break
+    }
+  }
+}
+```
+## 函数调用
+-  小写字母函数只在本包内可见, 大写字母开头的函数才能被其他包调用
+
+## 任意类型不定参数
+
+```
+func myfunc(args ...interface{}){
+}
+```
+## 匿名函数(hah)
+
+```
+func (x, y int) bool{
+  return x < y
+}
+```      
