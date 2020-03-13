@@ -1,0 +1,16 @@
+#docker-compose.yml
+  1 version: '3'
+  2 services:
+  3
+  4   mongodb:
+  5     container_name: some-mongo
+  6     image: mongo:3.6
+  7     environment:
+  8       - MONGO_DATA_DIR=/data/db
+  9       - MONGO_LOG_DIR=/dev/null
+ 10     volumes:
+ 11       - ./data/db:/data/db
+ 12     ports:
+ 13         - 27017:27017
+ 14     command: mongod --smallfiles --logpath=/dev/null # --quiet
+
