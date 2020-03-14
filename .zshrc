@@ -38,7 +38,6 @@ alias pc="proxychains4"
 plugins=(
 	git-open
 	git
-	zsh-autosuggestions
 	autojump
 	brew
 	python
@@ -50,7 +49,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=30'
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # autojump
-[[ -s /Users/xiaoqinglin-guanliyuan/.autojump/etc/profile.d/autojump.sh ]] && source /Users/xiaoqinglin-guanliyuan/.autojump/etc/profile.d/autojump.sh
+[[ -s /Users/jimengdie/.autojump/etc/profile.d/autojump.sh ]] && source /Users/jimengdie/.autojump/etc/profile.d/autojump.sh
 autoload -U compinit && compinit -u
 
 # fzf
