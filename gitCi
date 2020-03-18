@@ -1,9 +1,9 @@
-# .gitlab-ci.yml
-image: "python:3.8"
+image: "python:3.6.6"
 
 before_script:
   - python --version
   - pip install -r requirements.txt
+  - black .
 
 stages:
   - Static Analysis
@@ -12,7 +12,7 @@ stages:
 flake8:
   stage: Static Analysis
   script:
-    - flake8 --max-line-length=120 src
+    - flake8 --max-line-length=120 src, --extend-ignore=F823,F402
 
 pytest:
   stage: Test
