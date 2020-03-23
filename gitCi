@@ -18,3 +18,45 @@ pytest:
   stage: Test
   script:
     - pytest tests
+    
+    
+##########################################################
+# Add Docker push
+stages:
+  - stage
+  - release
+
+variables:
+  LATEST_IMAGE: ${CI_REGISTRY}/${CI_PROJECT_PATH}/miniprogram-backend:latest
+  RELEASE_IMAGE: ${CI_REGISTRY}/${CI_PROJECT_PATH}/miniprogram-backend:stable
+
+image: docker:stable
+
+before_script:
+  - docker version
+  - docker info
+  - docker login -u gitlab-ci-token -p $CI_JOB_TOKEN $CI_REGISTRY
+
+after_script:
+  - docker logout $CI_REGISTRY
+
+
+Stage:
+  stage: stage
+  script:
+    - echo "Building miniprogram Image"
+    - echo $LATEST_IMAGE
+    - docker build -f api/Dockerfile.ci --build-arg BRANCH=dev --build-arg CI_JOB_TOKEN=$CI_JOB_TOKEN --build-arg TYPE=miniprogram-backend -t $LATEST_IMAGE --no-cache .
+    - docker push $LATEST_IMAGE
+  only:
+    - dev
+
+Release:
+  stage: release
+  script:
+    - echo "Building miniprogram Image"
+    - docker build -f api/Dockerfile.ci --build-arg BRANCH=master --build-arg CI_JOB_TOKEN=$CI_JOB_TOKEN --build-arg TYPE=miniprogram-backend -t $RELEASE_IMAGE --no-cache .
+    - docker push $RELEASE_IMAGE
+  only:
+    - master
+
