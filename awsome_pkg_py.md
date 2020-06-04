@@ -21,3 +21,4 @@
 - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema.
 # [black](https://github.com/psf/black)
 - Black makes code review faster by producing the smallest diffs possible.
+# [cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
