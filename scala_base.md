@@ -1,5 +1,6 @@
 ### 教程地址:
-http://twitter.github.io/scala_school/zh_cn/index.html
+(twitter)[http://twitter.github.io/scala_school/zh_cn/index.html]
+(runoob)[https://www.runoob.com/scala/scala-tutorial.html]
 ### Scala 基本语法
 - 区分大小写(大小写敏感)
 - 类名(大驼峰 class MyFirstScala)
