@@ -12,7 +12,7 @@
 
 * 现公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2020.4~至今&emsp;&emsp;&emsp;&emsp;&emsp; 华为[云与计算BG]对象存储服务域项目群(北京外企德科人力资源公司)     
 * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.10~2020.4&emsp;&emsp;&emsp;&emsp;&emsp; 上海爱购智能科技有限公司成都分公司（原成都英潭信息技术服务有限公司）           
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.8~2019.10&emsp;&emsp;&emsp;&emsp;&emsp; 上海易宝科技有限公司
+* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.8~2019.8&emsp;&emsp;&emsp;&emsp;&emsp; 上海易宝科技有限公司
 * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.8~2018.6&emsp;&emsp;&emsp;&emsp;&emsp; 北京乐飞天下信息技术公司
 ## 专业技能
 
