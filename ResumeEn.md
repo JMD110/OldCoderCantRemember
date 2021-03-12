@@ -1,6 +1,8 @@
 <center>
 <h1>Biography</h1>
 </center>
+
+
 ## Personal Information
 
 * Sex: Female &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Age: 29
