@@ -18,7 +18,7 @@
 
 ## Expertise
 
-* Have a good command of Python, JS, and programming languages such as Node, Go, and Java.
+* Have a good command of Python, JS.
 * Have a good command of basic data structures and algorithms.
 * Have a basic command of cloud computing object storage service technologies, have OpenStack Swift (object storage) plug-in, and experience in secondary development.
 * Be familiar with development in Linux and MacOS and master shell script development.
