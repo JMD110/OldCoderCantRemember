@@ -7,14 +7,13 @@
 
 * Sex: Female &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Age: 29
 * Mobile: +8618583297765 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: jimengdie3@gmail.com
-* Education: Bachelor Degree of Southwest University of Political Science and Law &emsp;&emsp;&emsp;&emsp;&emsp; Position: R&D Engineer
+* Education: Bachelor Degree of Southwest University of Political Science and Law &emsp;&emsp;&emsp;&emsp;&emsp; Position: Python Software Developer(Remote Full-Time)
 
 ## Work Experience
 
 * Huawei [Cloud and Computing BG] Object Storage Service Domain Program (Beijing Foreign Enterprise Deke Human Resource Co., Ltd.)
-* Former company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.10-2020.4&emsp;&emsp;&emsp;&emsp;&emsp; AiFi.inc, Ltd. 
-* Former Company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.8-2019.8&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Ebo Technology Co., Ltd.
-* Former company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.8-2018.6&emsp;&emsp;&emsp;&emsp;&emsp; Beijing LeFei World Information Technology Corporation
+* Former company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.10-2020.4&emsp;&emsp;&emsp;&emsp;&emsp; AiFi.inc, Ltd. 
+* Former Company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.8-2019.8&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Ebo Technology Co., Ltd.
 
 ## Expertise
 
@@ -44,13 +43,13 @@ You can switch storage without adapting to Swift.
 
 3. AIGO Smart Technology - AIGO Smart Shopping Applet - Independent development and maintenance
 * Aigou Smart Shopping Applet is a WeChat and Alipay applet based on unmanned supermarket client scanning in-store, shopping, and after-sales services.
-* Django backend + WeChat applet and Alipay applet frontend
+* Django backend + WeChat applet and Alipay applet frontend 
 * The QR code of the applet connects to the gate of the unmanned supermarket. Through the serial communication protocol, software development at the gate end is implemented, enabling the QR code of the applet to enter the store and connect to microservices such as AI CV, tracking, and gondolar in the store. In addition, the entrusted deduction function is enabled with WeChat and Alipay, and restricted background management functions are provided for customer service personnel.
 * Most users of SwiftAdapter are internal developers of HUAWEI CLOUD and can work with developers of various languages to resolve service interconnection issues.
 
 4. Shanghai Yibao Technology - Search website development (search engine) - Responsible for requirement development and issue modification
 * The Search website builds knowledge graph based on the search engine of Huawei wireless tools.
-* Django+Neo4j+ElasticSearch+MongoDB
+* Django+Neo4j+ElasticSearch+MongoDB+Vue.js
 * To achieve the project goal of instant knowledge, we build knowledge graph, build knowledge networks based on entities, relationships, and attributes, and improve related search and knowledge search from previous search engines. The functions of chain search, entity relationship filtering and workflow based on knowledge graph are developed.
 
 ## Personal account
