@@ -12,4 +12,5 @@ expect -c "
     \"root:/xxx>\" {send -- \"exit\\r\";}
     }
     exit 0;
+    "
 ```
