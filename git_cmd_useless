@@ -1,0 +1,4 @@
+ 恢复分支
+ git fetch --all  
+ git reset --hard origin/master   // 注意后缀master代表远程分支 
+ git pull 
