@@ -23,3 +23,4 @@
 - Black makes code review faster by producing the smallest diffs possible.
 # [cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 # [fabric](https://github.com/fabric/fabric)
+# [code example](https://www.programcreek.com/python/)
