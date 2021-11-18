@@ -13,7 +13,7 @@
 
 * Huawei [Cloud and Computing BG] Object Storage Service Domain Program (Beijing Foreign Enterprise Deke Human Resource Co., Ltd.)
 * Former company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.10-2020.4&emsp;&emsp;&emsp;&emsp;&emsp; AiFi.inc, Ltd. 
-* Former Company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.8-2019.8&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Ebo Technology Co., Ltd.
+* Former Company &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2014.8-2018.8&emsp;&emsp;&emsp;&emsp;&emsp; Shanghai Epro Technology Co., Ltd.
 
 ## Expertise
 
