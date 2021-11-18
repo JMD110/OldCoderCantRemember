@@ -22,8 +22,8 @@
 * Have a basic command of cloud computing object storage service technologies, have OpenStack Swift (object storage) plug-in, and experience in secondary development.
 * Be familiar with development in Linux and MacOS and master shell script development.
 * Have a good command of using relational databases MySQL, PostgreSQL, and SQLite3, and non-relational databases MongoDB and Redis.
-* Master the knowledge graph technology and have used Neo4j, ElasticSearch, and HBase.
-* Be familiar with Kafka and RabbitMQ in common MQs.
+* Experience at knowledge graph technology and have used Neo4j, ElasticSearch, and HBase.
+* Be familiar with Kafka and RabbitMQ.
 
 ## Project Experience
 
