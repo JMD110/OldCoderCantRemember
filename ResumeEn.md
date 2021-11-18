@@ -6,7 +6,7 @@
 ## Personal Information
 
 * Sex: Female &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Age: 29
-* Mobile: +8618583297765 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: jimengdie3@gmail.com
+* Mobile: +8619938059617 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: jimengdie3@gmail.com
 * Education: Bachelor Degree of Southwest University of Political Science and Law &emsp;&emsp;&emsp;&emsp;&emsp; Position: Python Software Developer(Remote Full-Time)
 
 ## Work Experience
