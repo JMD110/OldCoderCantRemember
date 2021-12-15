@@ -13,6 +13,7 @@ expect -c "
     }
     exit 0;
     "
+    
 ```
 
 ```
@@ -34,3 +35,9 @@ service iptables save
 　　netstat -an | grep 23 (查看是否打开23端口)
 六、linux打开端口命令每一个打开的端口，都需要有相应的监听程序才可以
 ```
+- 构造指定大小的虚拟文件
+`dd if=/dev/zero of=tmp.5G bs=1G count=5`
+
+
+
+
