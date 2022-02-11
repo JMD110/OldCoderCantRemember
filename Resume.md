@@ -32,15 +32,15 @@
   - 职责：负责需求开发、问题修改、技术支持、资料维护
   - 成绩：版本优秀团队
   - 【客户端程序】华为云对象存储OBS - OBS Browser+ - 负责需求开发、问题修改、技术支持、资料维护  
-         1. OBS Browser+是一款用于访问和管理对象存储服务的图形化工具，支持完善的桶管理和对象管理操作。
-         2.  Electron + Angularjs（前端Javascript+后端Node.js）实现多端公用一套代码的客户端工具，负责前后端开发了批量删除、QoS流控、定时上传等功能开发。
-         3. 批量删除功能指数倍降低用户进行大规模删除的时间，帮助缓解技术人员需辅助客户使用脚本进行大批量删除的困境。在维护工具的过程中能与客户进行有效沟通，与一线客服人员及时解决工单中的问题。
-         4. 同时维护OBS Nodejs javaScript sdk 的问题修改；github以及云社区的问题、issue回复。
-         5. 下载地址https://support.huaweicloud.com/browsertg-obs/obs_03_1000.html
+          1. OBS Browser+是一款用于访问和管理对象存储服务的图形化工具，支持完善的桶管理和对象管理操作。
+          2.  Electron + Angularjs（前端Javascript+后端Node.js）实现多端公用一套代码的客户端工具，负责前后端开发了批量删除、QoS流控、定时上传等功能开发。
+          3. 批量删除功能指数倍降低用户进行大规模删除的时间，帮助缓解技术人员需辅助客户使用脚本进行大批量删除的困境。在维护工具的过程中能与客户进行有效沟通，与一线客服人员及时解决工单中的问题。
+          4. 同时维护OBS Nodejs javaScript sdk 的问题修改；github以及云社区的问题、issue回复。
+          5. 下载地址https://support.huaweicloud.com/browsertg-obs/obs_03_1000.html
   - 【客户端程序】AI模型保护 - 负责需求设计开发、问题单定位修改
-         1. 工具为AI模型数据进行加密解密的客户端工具，负责工具的前后端开发工作
-         2. flask + vue + pyelectron
-         3. 该项目尚未商业发布。
+          1. 工具为AI模型数据进行加密解密的客户端工具，负责工具的前后端开发工作
+          2. flask + vue + pyelectron
+          3. 该项目尚未商业发布。
   - 【云计算】华为云混合云基础平台 - swiftAdapter - 独立开发、维护、技术支持
          1. swiftAdapter是基于openstack swift的插件开发，对接了和华为云IAM服务，提供将obs的请求向swift的接口转义以及swift的请求响应向obs的响应转化。
          2. python3 + WSGI。
