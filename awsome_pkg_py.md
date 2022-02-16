@@ -24,3 +24,4 @@
 # [cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)
 # [fabric](https://github.com/fabric/fabric)
 # [code example](https://www.programcreek.com/python/)
+# [trip](https://trip.readthedocs.io/zh_CN/latest/)
